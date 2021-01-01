@@ -1,0 +1,15 @@
+{
+  "deploy": {
+    "destination": "F1D",
+    "name": "Z_COSTCO_PLUGIN"
+  },
+  "projectType": [
+    "sap.watt.uitools.ide.fiori",
+    "sap.watt.uitools.ide.web",
+    "com.watt.common.builder.sapui5clientbuild"
+  ],
+  "build": {
+    "buildRequired": true,
+    "lastBuildDateTime": "Mon, 14 Jan 2019 21:38:35 GMT"
+  }
+}

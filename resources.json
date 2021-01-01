@@ -1,0 +1,21 @@
+{
+    "resources": [
+        {
+            "name": "resources.json",
+            "merged": true
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": ".project.json"
+        },
+        {
+            "name": "Component.js"
+        }
+    ]
+}
