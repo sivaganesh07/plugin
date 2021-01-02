@@ -14,7 +14,7 @@ renderer.addHeaderEndItem("sap.ushell.ui.shell.ShellHeadItem", {
 	icon: "sap-icon://TNTIcons/Verify API",
 	press: this._showLanguageMenu.bind(this)
 }, true, false);
-
+//test3
 sap.ushell.Container.getRenderer("fiori2").addFloatingButton("sap.ushell.ui.shell.ShellFloatingAction", {id: "testBtn"}, true, true);
 
  //var oRenderer = sap.ushell.Container.getRenderer("fiori2");
