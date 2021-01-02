@@ -10,7 +10,7 @@ sap.ui.define([
 		init: function() {
 			var renderer = sap.ushell.Container.getRenderer("fiori2");
 renderer.addHeaderEndItem("sap.ushell.ui.shell.ShellHeadItem", {
-	id: "headerEnd",
+	id: "headerEnd2S",
 	icon: "sap-icon://TNTIcons/Verify API",
 	press: this._showLanguageMenu.bind(this)
 }, true, false);
