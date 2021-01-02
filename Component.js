@@ -15,7 +15,7 @@ renderer.addHeaderEndItem("sap.ushell.ui.shell.ShellHeadItem", {
 	press: this._showLanguageMenu.bind(this)
 }, true, false);
 
-// sap.ushell.Container.getRenderer("fiori2").addFloatingButton("sap.ushell.ui.shell.ShellFloatingAction", {id: "testBtn"}, true, true);
+sap.ushell.Container.getRenderer("fiori2").addFloatingButton("sap.ushell.ui.shell.ShellFloatingAction", {id: "testBtn"}, true, true);
 
  //var oRenderer = sap.ushell.Container.getRenderer("fiori2");
  //oRenderer.setFooterControl("sap.m.Bar", {id: "testBar", contentLeft: [new sap.m.Button({text: "Test Footer Button",
